@@ -2,6 +2,8 @@
 
 #folders#
 /target
+/memento/target
+/memento/.settings
 /src/main/webapp/WEB-INF/classes
 
 
@@ -9,3 +11,5 @@
 *.jar
 *.war
 *.ear
+
+
